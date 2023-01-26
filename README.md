@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo con **React**
 
-- 🌱 Actualmente estoy parendiendo **Node, Typescript y NextJS**
+- 🌱 Actualmente estoy aprendiendo **Node, Typescript y NextJS**
 
 - 🤝 Busco ayuda sobre **backend**
 
