@@ -8,7 +8,7 @@
 
 - 🤝 Busco ayuda sobre **backend**
 
-- 👨‍💻 Podes visitar mi portfolio en [https://jmsafadi.github.io/portfolio/](https://jmsafadi.github.io/portfolio/)
+- 👨‍💻 Podes visitar mi portfolio en [https://juliansafadi-app.web.app/](https://juliansafadi-app.web.app/)
 
 - 💬 Preguntame sobre **React**
 
