@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Julian</h1>
-<h3 align="center">Soy un estudiante de desarrollo web frontend en busca de mi primera experiencia laboral en IT, que me ayude a lanzar mi carrera. Me gustaría ser parte de un equipo de trabajo y colaborar en el cumplimiento de sus objetivos. Mi tecnología favorita es ReactJS, aunque estoy constantemente aprendiendo mas herramientas.</h3>
+<h3 align="center">Soy un desarrolador web frontend en busca de mi primera experiencia laboral en IT, que me ayude a lanzar mi carrera. Mi tecnología favorita es React, aunque estoy constantemente aprendiendo mas herramientas. Te invito a ver mis proyectos y dejarles una estrella.</h3>
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 
 - 🔭 Actualmente trabajo con **React**
