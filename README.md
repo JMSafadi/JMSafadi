@@ -2,18 +2,6 @@
 <h3 align="center">Soy un desarrolador web frontend en busca de mi primera experiencia laboral en IT, que me ayude a lanzar mi carrera. Mi tecnología favorita es React, aunque estoy constantemente aprendiendo mas herramientas. Te invito a ver mis proyectos y dejarles una estrella.</h3>
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 
-- 🔭 Actualmente trabajo con **React**
-
-- 🌱 Actualmente estoy aprendiendo **Node, Typescript y NextJS**
-
-- 🤝 Busco ayuda sobre **backend**
-
-- 👨‍💻 Podes visitar mi portfolio en [https://juliansafadi-app.web.app/](https://juliansafadi-app.web.app/)
-
-- 💬 Preguntame sobre **React**
-
-- 📫 Contactame por **julianmatiassafadi@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jumasa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jumasa0" height="30" width="40" /></a>
