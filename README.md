@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Soy Julian</h1>
+<h1 align="center">Bienvenido! Soy Julian</h1>
 <h3 align="center">Soy un desarrollador web en busca de mi primera experiencia laboral en IT, que me ayude a lanzar mi carrera. Me gustaría ser parte de un equipo de trabajo y colaborar en el cumplimiento de sus objetivos. Mi tecnología favorita es React, aunque estoy constantemente aprendiendo mas herramientas. Te invito a ver mis proyectos y dejarles una estrella!</h3>
 
 <p align="left"> <a href="https://twitter.com/jumasa0" target="blank"><img src="https://img.shields.io/twitter/follow/jumasa0?logo=twitter&style=for-the-badge" alt="jumasa0" /></a> </p>
