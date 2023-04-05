@@ -1,5 +1,5 @@
-<h1 align="center">Bienvenido! Soy Julian</h1>
-<h3 align="center">Desarrollador web en busca de mi primera experiencia laboral en IT, que me ayude a lanzar mi carrera. Me gustaría ser parte de un equipo de trabajo y colaborar en el cumplimiento de sus objetivos. Mi tecnología favorita es React, aunque estoy constantemente aprendiendo mas herramientas. Te invito a ver mis proyectos y dejarles una estrella!</h3>
+<h1 align="center">Welcome! My name is Julian</h1>
+<h3 align="center">Web developer in looking for my first job experience in IT, to help launch my career. I would like to be part of a team and collaborate in achieving their goals. My favorite technology is React, although I am constantly learning new tools. I invite you to check out my projects and leave them a star!</h3>
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 
