@@ -1,5 +1,6 @@
 <h1 align="center">Welcome! My name is Julian</h1>
-<h3 align="center">I am full-stack javascript web developer looking for my first IT work experience to help launch my career. Specialized in React, interested in deploying scalable and user-friendly projects while considering UX strategies. I would like to be part of a team, surrounded by experienced people, and help achieve objectives. At the same time, I want to continue learning new tools and technologies constantly. I invite you to check out my projects and leave them a star!</h3>
+<h3 align="center">I am a front-end developer in search of my first professional experience in IT. Specialized in React, and with knowledge in back-end, I am interested in deploying scalable and user-friendly projects, taking into account UX strategies. My current English level is B2, while I continue to improve. I would like to be part of a working team, surrounded by more experienced individuals to help
+achieve objectives, and at the same time, continue learning new tools and technologies constantly. I invite you to check out my projects and leave them a star!</h3>
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif">
 
